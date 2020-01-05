@@ -7,6 +7,7 @@ Guidlines to use :
 3. Targets should also be binary same as above.
 
 Setting up:
+ 0. clone this repo by typing : git clone https://github.com/ShubhamRaj1997/ML-TargetCustomers.git
  1. install Anaconda (Python3)
  2. Open Anaconda Prompt Application as Admnistrator
  3. Create environment (by using following commands):
