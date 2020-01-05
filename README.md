@@ -1,12 +1,13 @@
 # NeuralNetworks
 Use the code for predicting the binary targets with 90% accuracy (provided sufficient amount of data)
 
-Guidlines to use :
+# Guidlines to use :
 1. The input data must be in real numbers.
 2. The output or predictions should be in YES or NO, i.e. 0 or 1
 3. Targets should also be binary same as above.
 
-Setting up:
+# Setting up:
+
  0. clone this repo by typing : git clone https://github.com/ShubhamRaj1997/ML-TargetCustomers.git
  1. install Anaconda (Python3)
  2. Open Anaconda Prompt Application as Admnistrator
